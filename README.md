@@ -7,7 +7,7 @@ A minimal AI agent framework for learning, inspired by [nanobot](../nanobot).
 文档全部在 [`doc/`](./doc) 目录下：
 - [`doc/plan.md`](./doc/plan.md) — 两天实施计划
 - [`doc/list.md`](./doc/list.md) — nanobot 完整模块清单 + MVP 取舍
-- [`doc/step-*.md`](./doc) — 每个步骤完成后的回顾笔记
+- [`doc/dev-logs/step-*.md`](./doc/dev-logs) — 每个步骤完成后的回顾笔记
 
 ## Quick start
 
